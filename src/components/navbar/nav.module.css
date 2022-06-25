@@ -1,0 +1,39 @@
+.container {
+    background-color: rgb(44, 42, 42);
+    color: aliceblue;
+    font-size: 1.5rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+    
+}
+.list {
+ 
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+
+    width: 60%;
+
+}
+.list li{
+    list-style-type: none;
+    width: 20%;
+    height: 5rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    /* border: 2px red solid; */
+   
+   
+}
+.list li:hover{
+    background-color: rgb(114, 182, 182);
+    /* padding-top: 30px;
+    padding-bottom: 30px; */
+    cursor: pointer;
+   
+}
