@@ -5,6 +5,8 @@
     display: flex;
     justify-content: center;
     align-items: center;
+    flex-wrap: wrap;
+    overflow: hidden;
 
 
 }
@@ -51,8 +53,8 @@ img {
     height: 320px;
     color: white;
     position: absolute;
-    display:none;
-    overflow: hidden;
+    
+    
     bottom: 0;
     left: 0;
     background-color: rgba(0, 0, 0, 0.5);
