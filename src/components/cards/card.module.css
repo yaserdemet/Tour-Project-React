@@ -31,7 +31,11 @@
  
     transform: translateY(0%);
     display: block;
+    
 
+}
+.container:hover {
+    filter: grayscale(100%);
 }
 
 img {
