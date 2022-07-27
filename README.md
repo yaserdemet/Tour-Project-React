@@ -1,6 +1,5 @@
 ![Animation](https://user-images.githubusercontent.com/99739515/175813871-3580ff6a-b0a7-45f2-8f13-2e9013785e69.gif)
 
-👉 [click here to see React page](https://yaserdemet.github.io/my-app/)
 
 
 ### At the end of the project, i will have covered these topics;
